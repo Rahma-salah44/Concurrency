@@ -1,0 +1,15 @@
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\bin\Debug\net6.0\Thread.exe
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\bin\Debug\net6.0\Thread.deps.json
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\bin\Debug\net6.0\Thread.runtimeconfig.json
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\bin\Debug\net6.0\Thread.dll
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\bin\Debug\net6.0\Thread.pdb
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\obj\Debug\net6.0\Thread.csproj.AssemblyReference.cache
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\obj\Debug\net6.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\obj\Debug\net6.0\Thread.AssemblyInfoInputs.cache
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\obj\Debug\net6.0\Thread.AssemblyInfo.cs
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\obj\Debug\net6.0\Thread.csproj.CoreCompileInputs.cache
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\obj\Debug\net6.0\Thread.dll
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\obj\Debug\net6.0\refint\Thread.dll
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\obj\Debug\net6.0\Thread.pdb
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\obj\Debug\net6.0\Thread.genruntimeconfig.cache
+D:\Courses\ConcurrencyDemo\Concurrency\Thread\obj\Debug\net6.0\ref\Thread.dll
