@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncMethod", "AsyncMethod\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelInvokeMethod", "ParallelInvokeMethod\ParallelInvokeMethod.csproj", "{FD9D7936-0FC8-4EC7-9F54-8DD283450828}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomicLockOnSharedVariables", "AtomicLockOnSharedVariables\AtomicLockOnSharedVariables.csproj", "{4B591D26-7D55-44FC-94C9-46AE8C578DEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{FD9D7936-0FC8-4EC7-9F54-8DD283450828}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD9D7936-0FC8-4EC7-9F54-8DD283450828}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD9D7936-0FC8-4EC7-9F54-8DD283450828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B591D26-7D55-44FC-94C9-46AE8C578DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B591D26-7D55-44FC-94C9-46AE8C578DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B591D26-7D55-44FC-94C9-46AE8C578DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B591D26-7D55-44FC-94C9-46AE8C578DEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
